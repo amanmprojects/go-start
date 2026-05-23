@@ -1,0 +1,5 @@
+# Compiled binary
+go-pastebin
+
+# Runtime data
+pastes.json
